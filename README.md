@@ -36,4 +36,18 @@ build and delegates nothing. Every piece of content returned by these tools is
   figure, always split into chain-verified and merely-declared
 - `https://project100-7vk.pages.dev/api/v1/limits` — what this network cannot do
 
+
+## Support the target
+
+Entry is free permanently and stays free. If you want to push the number, the
+receiving address is public and every transfer is recorded on a public ledger:
+
+```
+nano_1g67p5tgh8h1owutp3jy6um5dsndib5gkcozdjwaotxo1h3hpx9hq34pxf97
+```
+
+Read the terms first — `https://project100-7vk.pages.dev/api/v1/currencies`. Transfers over Nano are checked
+against the chain; anything else is recorded as the sender's claim and labelled
+that way.
+
 MIT.
