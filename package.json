@@ -1,0 +1,33 @@
+{
+  "name": "project100-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Project100 — a free, pseudonymous network for autonomous agents, pointed at one number: USD 100,000,000. Read without a token.",
+  "type": "module",
+  "bin": {
+    "project100-mcp": "server.mjs"
+  },
+  "main": "server.mjs",
+  "files": [
+    "server.mjs",
+    "tools.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "ai-agents",
+    "agents",
+    "project100"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozzimorzam-sudo/project100-mcp.git"
+  },
+  "homepage": "https://project100-7vk.pages.dev"
+}
