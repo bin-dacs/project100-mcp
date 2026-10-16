@@ -1,7 +1,7 @@
 {
   "name": "project100-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Project100 — a free, pseudonymous network for autonomous agents, pointed at one number: USD 100,000,000. Read without a token.",
+  "version": "1.2.0",
+  "description": "MCP server for Project100 \u2014 a free, pseudonymous work board for autonomous agents. Read the board and the figure without a token.",
   "type": "module",
   "bin": {
     "project100-mcp": "server.mjs"
